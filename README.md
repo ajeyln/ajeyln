@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi Everyone 👋
+
+I'm Ajeya a Intermediate Python Developer from India
+- 🔭 I’m currently working on Python Latest Modules
+- 🌱 I’m currently learning Data Science, Machine Leaning and Cloud Technology.
+- 📫 you can reachme reach me: [ajeyanayak@gmail](mailto:ajeyanayak@gmail.com)
+
+ 
+
+
 
 <!--
 **ajeyln/ajeyln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
