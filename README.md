@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-I'm Ajeya a Intermediate Python Developer from India
+I'm Ajeya a Python Developer from India
 - 🔭 I’m currently working on Python Latest Modules
 - 🌱 I’m currently learning Data Science, Machine Learning and Cloud Technology.
 - 📫 you can reach me: [ajeyanayak@gmail](mailto:ajeyanayak@gmail.com)
