@@ -1,9 +1,10 @@
 ### Hi Everyone 👋
 
 I'm Ajeya a Python Developer from India
-- 🔭 I’m currently working on Python Modules
-- 🌱 I’m currently learning Data Science, Machine Learning and Cloud Technology.
-- 📫 you can reach me: [ajeyanayak@gmail](mailto:ajeyanayak@gmail.com)
+- 🔭 I’m currently working on Python pipeline using jenkins
+- 🌱 I’m currently learning Machine leaning using Python.
+- 👯 I also intrested in Web Development and Cloud Technology
+- 📫 you can reach me:[ajeyanayak@gmail](mailto:ajeyanayak@gmail.com)
 
 <img align="right" alt="GIF" src="https://github.com/ajeyln/ajeyln/blob/main/tenor.gif?raw=true" width="500" height="320" />
 
