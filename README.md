@@ -6,7 +6,7 @@ I'm Ajeya a Python Developer from India
 - 👯 I also intrested in Web Development and Cloud Technology
 - 📫 you can reach me:[ajeyanayak@gmail](mailto:ajeyanayak@gmail.com)
 
-<img align="right" alt="GIF" src="https://github.com/ajeyln/ajeyln/blob/main/tenor.gif?raw=true" width="500" height="320" />
+<img align="left" alt="GIF" src="https://github.com/ajeyln/ajeyln/blob/main/tenor.gif?raw=true" width="500" height="320" />
 
 
 
