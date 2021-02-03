@@ -7,7 +7,7 @@ My name is Ajeya and I am an enthusiastic Python Developer from India.
 
  📝 Currentyly learning Data science, Machine Learning with python. <br />
 
- 👨🏽‍💻 Leaning some of the methodologies, such as as on Regression, Clustering and Classification Etc. I find this technology to be very fascinating and revolutionary <br />
+ 🌸 Learning some of the methodologies, such as as on Regression, Clustering and Classification Etc. I find this technology to be very fascinating and revolutionary <br />
 
 🌱 AWS Cloud Platform is another techology where i want to invest time to learn and document. <br />
 
