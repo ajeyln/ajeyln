@@ -17,6 +17,6 @@ My name is Ajeya and I am an enthusiastic Python Developer from India.
 
 🌱 Further interests include : Python Web Development, Containerization with Docker, Database.<br />
 
- 📫 you can reach me:[ajeyanayak@gmail](mailto:ajeyanayak@gmail.com)
+ 📫 you can reach me: [ajeyanayak@gmail](mailto:ajeyanayak@gmail.com)
 
 
