@@ -16,7 +16,7 @@ I find this technology to be very fascinating and revolutionary <br />
 
 ✅  I am also learning German for academics/career.Currently learning B2/C1. I have acquired B2 Sprechen and Schreiben Certificates: Due Covid Lockdowns, conducting of exams are halted. Learning C1 with Goethe online <br />
 
-✅  Active subscriber of KodeKloud (https://kodekloud.com/) to learn and have a hands-on experience with DevOps Concepts : Linux essentials, Python, Shell Scripting, containerization and Kubernetes <br />
+✅  Active subscriber of [KodeKloud](https://kodekloud.com/) to learn and have a hands-on experience with DevOps Concepts : Linux essentials, Python, Shell Scripting, containerization and Kubernetes <br />
 
  📫 you can reach me: [ajeyanayak@gmail](mailto:ajeyanayak@gmail.com)
 
