@@ -18,6 +18,6 @@ I find this technology to be very fascinating and revolutionary <br />
 
 ✅  Active subscriber of [KodeKloud](https://kodekloud.com/) to learn and have a hands-on experience with DevOps Concepts : Linux essentials, Python, Shell Scripting, containerization and Kubernetes <br />
 
- 📫 you can reach me: [ajeyanayak@gmail](mailto:ajeyanayak@gmail.com)
+ 📫 you can reach me: [ajeyanayak@gmail.com](mailto:ajeyanayak@gmail.com)
 
 
