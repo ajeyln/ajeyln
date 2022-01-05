@@ -5,7 +5,7 @@ Welcome to my Github Profile. Thank you for your visit.
 My name is Ajeya and I am an enthusiastic Python Developer from India.
 <img align="right" alt="GIF" src="https://github.com/ajeyln/ajeyln/blob/main/tenor.gif?raw=true" width="500" height="320" />
 
-✅  Working at software company as  Java Developer, Leraning Java and Springboot from scratch. Related notes and exercises will get updated on Github soon.<br />
+✅  Working at software company as  Java Developer, Learning Java and Springboot from scratch. Related notes and exercises will get updated on Github soon.<br />
 
 ✅  Data Science, Machine Learning essentials with Python Learning some of the methodologies, such as as on Regression, Clustering and Classification Etc.
 I find this technology to be very fascinating and revolutionary <br />
