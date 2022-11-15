@@ -6,8 +6,8 @@ My name is Ajeya and I am an enthusiastic Python Developer from India.
 
 <p align="center">
   <img align="right" alt="GIF" src="https://github.com/ajeyln/ajeyln/blob/main/tenor.gif?raw=true" width="500" height="320" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ajeyln&count_private=true&show_icons=true" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeyln&layout=compact" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajeyln&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeyln&layout=compact&theme=tokyonight" height="170px">
 </p>
 
 ✅  Currently working as "Cloud Associate" at [Niveus Solutions, Udupi](https://niveussolutions.com/) <br />
